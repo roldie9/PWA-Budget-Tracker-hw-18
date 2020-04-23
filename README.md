@@ -2,17 +2,18 @@
 
 ## Description
  
- This application allows the user to view and track daily workouts. Workouts will be either cardio or resistance based and will be saved using a Mongo Database with a Mongoose schema. Routes will be handled using Express.
+ This application allows the user to easily track their withdrawals and deposits with/without internet connection. They will be able to make offline entries that will be added to tracker once online.
 
-## Programs used
+## Programs & Technologies used
 
-* Mongo
-* MongoDB
+* indexedDB
 * Express
 * Node 
 * HTML
 * JavaScript
-* Bootstrap
+* Mongoose
+* Morgan
+
 
 ## Questions
 
