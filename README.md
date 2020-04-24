@@ -4,7 +4,7 @@
  
  This application allows the user to easily track their withdrawals and deposits with/without internet connection. They will be able to make offline entries that will be added to tracker once online.
 
-## Deployed Application & Screenshots
+## Deployed Application
 
 ("https://radiant-oasis-70614.herokuapp.com/")
 
